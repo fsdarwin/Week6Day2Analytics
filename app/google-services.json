@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "734819918352",
+    "firebase_url": "https://week6day2analytics.firebaseio.com",
+    "project_id": "week6day2analytics",
+    "storage_bucket": "week6day2analytics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734819918352:android:cf7b8b5ed4f1b9be",
+        "android_client_info": {
+          "package_name": "com.example.week6day2analytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734819918352-2mbbbvg3peofn9rgtqk1ujj0rl03i7ol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.week6day2analytics",
+            "certificate_hash": "cb0d82f86e2bb11699e7903616dc572b3f07805c"
+          }
+        },
+        {
+          "client_id": "734819918352-5sk9tlpkrgfvqambh0laloqomi6n0cjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9WtUdbViKM0N-Kfco2eI6RKKZCBrBsVk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734819918352-5sk9tlpkrgfvqambh0laloqomi6n0cjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
